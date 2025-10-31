@@ -4,8 +4,8 @@
 
 Product designer with 9 years experience transiting to a Design Engineering role to finally close the gap between design and dev. I'm pasionate about the web as a platform looking to create awesome experiences with a ridiculous level of polish. Fascinated with design systems and bleeding edge tech always searching for the next tool, platform, or technology.
 
-- 🧭 Current: Building Catalyst 2.0 (Design System) at **Project Management Institute (PMI)**
-- 🎯 Goal: "Solve" a design token structure for multipule brands, densities, sizes, and more
+- 🧭 Current: Building Catalyst 2.0 (Design System) at **[Project Management Institute (PMI)](https://www.pmi.org/)**
+- 🎯 Goal: "Solve" a design token structure for multiple brands, densities, sizes, and more
 - 🐶 Dog: Sassy Pomeranian “Sophie” that likes to join meetings
 - 🏎️ Hobbies: F1 fanatic, World of Warcraft & Halo Diehard. Purchaser of many mechanical keyboards
 
