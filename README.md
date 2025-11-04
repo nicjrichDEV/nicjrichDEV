@@ -2,7 +2,7 @@
 
 ### About
 
-Product designer with 9 years experience transiting to a Design Engineering role to finally close the gap between design and dev. I'm pasionate about the web as a platform looking to create awesome experiences with a ridiculous level of polish. Fascinated with design systems and bleeding edge tech always searching for the next tool, platform, or technology.
+Product designer with 9 years experience transiting to a Design Engineering role to finally close the gap between design and dev. I'm passionate about the web as a platform looking to create awesome experiences with a ridiculous level of polish. Fascinated with design systems and bleeding edge tech always searching for the next tool, platform, or technology. Diving deep into React and Svelte ecosystems.
 
 - **🧭 Current:** Building Catalyst 2.0 (Design System) at **[Project Management Institute (PMI)](https://www.pmi.org/)**
 - **🎯 Goal:** "Solve" a design token structure for multiple brands, densities, sizes, and more
@@ -29,11 +29,13 @@ Product designer with 9 years experience transiting to a Design Engineering role
   ↳ [Figma File](https://www.figma.com/design/0U2ZetHCXYppukaHsN42lX/Zentra---Web?node-id=204-70&t=G75aVBu3lSTtTnM6-1) • [Case Study](https://www.notion.so/nicjrichdev/Zentra-294884c0974a48f3a9f8b1d7e7bc18ff?source=copy_link)
 
 ---
+
 ### 2025 Goals
- 
+
 1. Complete [Scrimba Frontend Developer Career Path](https://scrimba.com/frontend-path-c0j)
 2. Complete [Scrimba Fullstack Developer Path](https://scrimba.com/fullstack-path-c0fullstack)
 3. Build a portfolio that doesn't suck :crocodile:
+4. Make some apps using Svelte and SvelteKit
 
 ---
 
@@ -47,6 +49,8 @@ Product designer with 9 years experience transiting to a Design Engineering role
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%2306B6D4?logo=tailwindcss&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white">
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte">
+  <img alt="SvelteKit" src="https://img.shields.io/badge/sveltekit-gray?logo=svelte&style=for-the-badge">
 </p>
 
 ---
